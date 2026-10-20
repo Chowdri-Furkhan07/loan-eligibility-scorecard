@@ -11,6 +11,8 @@
 
 A credit assessment web application that decides loan eligibility with a transparent scorecard and supports the decision with an optional machine learning model. Every outcome can be explained to the applicant factor by factor.
 
+---
+
 ## Preview
 
 ![Application preview](Screenshots/Preview.png)
