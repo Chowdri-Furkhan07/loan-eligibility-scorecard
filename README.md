@@ -182,3 +182,7 @@ Python 3.11+, Flask, Gunicorn, pandas, NumPy, scikit-learn, joblib, pytest, Dock
 ## Author
 
 Chowdri Furkhan | [GitHub](https://github.com/Chowdri-Furkhan07)
+
+## License
+
+Released under the MIT License. See [LICENSE](LICENSE).
